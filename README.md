@@ -90,13 +90,3 @@ Troubleshooting
 
 - Import Errors: Ensure all required libraries are installed and correctly named.
 - Connection Issues: Verify InfluxDB URL, token, and network connection.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-
-For questions or contributions, please contact your-email@example.com.
-
-Feel free to modify and extend the project as needed. Happy logging!
